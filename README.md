@@ -1,12 +1,4 @@
-## If Error Showed
 
-Just Download This Whole repository And make new repo in your GitHub account and upload all the files
-
-# Video Guide
-
-https://t.me/Oshekher/27 
-
-Credit: netslutter & lrtanvir for the video 😁
 
 # Free RDP 6 HOURS
 
